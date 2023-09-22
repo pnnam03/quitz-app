@@ -7,6 +7,6 @@ This app is built using [Zapp](https://zapp.run/).
 
 ## Demo images
 
-- !['correct_image'](demo_images/correct_answer.png)
-- !['incorrect_image'](demo_images/incorrect_answer.png)
-- !['result_page'](demo_images/result_page.png)
+!['correct_image'](demo_images/correct_answer.png)
+!['incorrect_image'](demo_images/incorrect_answer.png)
+!['result_page'](demo_images/result_page.png)
