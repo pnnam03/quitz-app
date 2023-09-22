@@ -1,23 +1,12 @@
-# Flutter app in Zapp!
+# nampham's Quitz App
 
-A new Flutter project built with Zapp!
+This app is built using [Zapp](https://zapp.run/).
 
-----
+- Online Demo: https://z2pk06bi2pl0.zapp.page/#/
+- Source code: https://zapp.run/edit/flutter-z2pk06bi2pl0?entry=lib/main.dart&file=lib/main.dart
 
-> To learn how to use Zapp! check out the [documentation](https://docs.zapp.run)
+## Demo images
 
-----
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+- !['correct_image'](demo_images/correct_answer.png)
+- !['incorrect_image'](demo_images/incorrect_answer.png)
+- !['result_page'](demo_images/result_page.png)
